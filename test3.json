@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "type": "FeatureCollection",
   "features": [
     {
@@ -494,7 +494,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Il podere",
+        "name": "Podere Salaro",
         "desc": "Il podere rappresenta...",
         "link": "AUxt4hcvXgU"
       },
